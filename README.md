@@ -8,6 +8,11 @@ services focado no gRPC
 protoc --go_out=. --go-grpc_out=. proto/course_category.proto
 ```
 
+#### Starting microsservice
+```shell
+go run cmd/grpcServer/main.go
+```
+
 #### Usando evans para simular as requests
 ```shell
 evans -r repl
