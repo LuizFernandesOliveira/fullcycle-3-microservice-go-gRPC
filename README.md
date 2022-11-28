@@ -1,7 +1,6 @@
 # Full Cycle 3.0
 ## Comunicação entre microservices - gRPC
-Este projeto foi criado durante o curso de comunicações entre micro
-services focado no gRPC
+Este projeto foi criado durante o curso de comunicações entre sistemas focado no gRPC
 
 #### Processa o proto
 ```shell
